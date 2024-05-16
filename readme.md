@@ -4,3 +4,5 @@
 .go to the "html.html" file and copy the code and paste it on an html website hosting service like "neocities" (the one I personally like)
 .then edit the text and maybe even change the style of it (if you know how to code though)
 .no credit needed as this is very easy to make with html i made this for fun
+# alternative
+you can download the html.html file and upload it to your website (but make sure you rename it to something like "gps" or "status"!!!)
